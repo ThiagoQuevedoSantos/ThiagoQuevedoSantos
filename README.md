@@ -15,6 +15,7 @@
  * Email: [thiagoquevedodossantos@gmail.com](mailto:thiagoquevedodossantos@gmail.com?subject=Hello%20again)
  * Phone: [+55 51 99633-6485](https://wa.me/qr/ZN7TPAIJEPANP1)
  
+ Alvorada, Rio Grande do Sul, Brazil.
 
 <!---
 ThiagoQuevedoSantos/ThiagoQuevedoSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
